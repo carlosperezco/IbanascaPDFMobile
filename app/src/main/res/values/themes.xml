@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Solo componentes del sistema (sin AndroidX). -->
+    <style name="Tema" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/verde_oscuro</item>
+        <item name="android:colorPrimaryDark">@color/verde_oscuro</item>
+        <item name="android:colorAccent">@color/verde</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

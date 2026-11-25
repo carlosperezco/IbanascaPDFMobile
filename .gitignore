@@ -1,0 +1,19 @@
+# Android Studio / Gradle
+.gradle/
+.idea/
+.kotlin/
+local.properties
+*.iml
+build/
+app/build/
+app/.cxx/
+captures/
+*.apk
+*.aab
+*.jks
+*.keystore
+app/release/
+
+# Generado por tools/obtener_dependencias.sh
+third_party/android/
+app/src/main/assets/licencias/

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Los textos de la interfaz vienen del núcleo (nucleo/lang/*.lang). -->
+<resources>
+    <string name="app_name" translatable="false">Ibanasca PDF Mobile</string>
+</resources>

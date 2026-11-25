@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono de Ibanasca PDF Mobile (mismo dibujo que assets/ibanascapdf.svg de Ibanasca PDF Lab). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <!-- tortuga al fondo: patas, cola y cabeza -->
+        <group android:pivotX="30" android:pivotY="62" android:rotation="-35">
+            <path android:fillColor="#7FB77E" android:strokeColor="#1F5E1C" android:strokeWidth="6" android:strokeLineJoin="round"
+                android:pathData="M8,62 a22,15 0 1,0 44,0 a22,15 0 1,0 -44,0 Z" />
+        </group>
+        <group android:pivotX="30" android:pivotY="206" android:rotation="35">
+            <path android:fillColor="#7FB77E" android:strokeColor="#1F5E1C" android:strokeWidth="6" android:strokeLineJoin="round"
+                android:pathData="M8,206 a22,15 0 1,0 44,0 a22,15 0 1,0 -44,0 Z" />
+        </group>
+        <group android:pivotX="226" android:pivotY="62" android:rotation="35">
+            <path android:fillColor="#7FB77E" android:strokeColor="#1F5E1C" android:strokeWidth="6" android:strokeLineJoin="round"
+                android:pathData="M204,62 a22,15 0 1,0 44,0 a22,15 0 1,0 -44,0 Z" />
+        </group>
+        <group android:pivotX="226" android:pivotY="206" android:rotation="-35">
+            <path android:fillColor="#7FB77E" android:strokeColor="#1F5E1C" android:strokeWidth="6" android:strokeLineJoin="round"
+                android:pathData="M204,206 a22,15 0 1,0 44,0 a22,15 0 1,0 -44,0 Z" />
+        </group>
+    <path android:fillColor="#7FB77E" android:strokeColor="#1F5E1C" android:strokeWidth="6" android:strokeLineJoin="round"
+        android:pathData="M4,134 L22,126 L22,142 Z" />
+    <path android:fillColor="#7FB77E" android:strokeColor="#1F5E1C" android:strokeWidth="6" android:strokeLineJoin="round"
+        android:pathData="M218,134 a18,16 0 1,0 36,0 a18,16 0 1,0 -36,0 Z" />
+    <path android:fillColor="#1F5E1C" android:pathData="M240,128 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0 Z" />
+    <!-- caparazón -->
+    <path android:fillColor="#3C8D40" android:strokeColor="#1F5E1C" android:strokeWidth="6"
+        android:pathData="M18,134 a110,96 0 1,0 220,0 a110,96 0 1,0 -220,0 Z" />
+    <path android:strokeColor="#1F5E1C" android:strokeAlpha="0.55" android:strokeWidth="5" android:strokeLineJoin="round"
+        android:pathData="M30,104 L48,90 L48,66 M30,164 L48,178 L48,202 M226,104 L208,90 L208,66 M226,164 L208,178 L208,202" />
+    <!-- hoja -->
+    <path android:fillColor="#FFFFFF" android:strokeColor="#1F5E1C" android:strokeWidth="8" android:strokeLineJoin="round"
+        android:pathData="M60,20 H164 L212,68 V224 a12,12 0 0 1 -12,12 H60 a12,12 0 0 1 -12,-12 V32 a12,12 0 0 1 12,-12 Z" />
+    <path android:fillColor="#CFE6C7" android:strokeColor="#1F5E1C" android:strokeWidth="8" android:strokeLineJoin="round"
+        android:pathData="M164,20 V56 a12,12 0 0 0 12,12 H212 Z" />
+        <path android:fillColor="#2E7D32" android:pathData="M82,92 H174 a6,6 0 0 1 0,12 H82 a6,6 0 0 1 0,-12 Z" />
+        <path android:fillColor="#8CC084" android:pathData="M82,120 H150 a6,6 0 0 1 0,12 H82 a6,6 0 0 1 0,-12 Z" />
+        <path android:fillColor="#8CC084" android:pathData="M82,148 H166 a6,6 0 0 1 0,12 H82 a6,6 0 0 1 0,-12 Z" />
+    <!-- firma -->
+    <path android:strokeColor="#1F5E1C" android:strokeWidth="7" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M74,200 c10,-24 24,-28 26,-12 c2,14 -10,22 -4,8 c8,-18 22,-22 24,-8 c1,9 8,10 16,0 c6,-8 12,-6 14,2 c2,6 10,6 26,-6" />
+</vector>
